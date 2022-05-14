@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Daffa Arviano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drdofx&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drdofx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drdofx&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
