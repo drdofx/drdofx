@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Daffa Arviano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drdofx&show_icons=true&theme=tokyonight&count_private=true)
+
+
 <!--
 **drdofx/drdofx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
